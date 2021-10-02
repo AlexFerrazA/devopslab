@@ -20,4 +20,4 @@ deploy:
   edge: true 
   app: devops-alexandre
   on:
-    all_branches: true
+    branch: master
