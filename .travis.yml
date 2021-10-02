@@ -13,7 +13,7 @@ install:
 script:
   - python -m unittest -v test
 
-  # Definir o Deploy no Heroku
+# Definir o Deploy no Heroku
 deploy:
   provider: heroku
   api_key: $DEVOPS_IMPACTA
