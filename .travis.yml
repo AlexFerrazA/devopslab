@@ -19,3 +19,5 @@ deploy:
   api_key: $DEVOPS_IMPACTA
   edge: true 
   app: devopslab-alexandre
+  on:
+    all_branches: true
