@@ -18,6 +18,6 @@ deploy:
   provider: heroku
   api_key: $DEVOPS_IMPACTA
   edge: true 
-  app: devopslab-alexandre
+  app: devops-alexandre
   on:
     all_branches: true
